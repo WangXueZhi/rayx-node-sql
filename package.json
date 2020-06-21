@@ -1,0 +1,22 @@
+{
+  "name": "rayx-node-sql",
+  "version": "0.0.1",
+  "description": "node中拼接sql语句的工具类",
+  "main": "index.js",
+  "author": "wangxuezhi",
+  "bugs": {
+    "url": "https://github.com/WangXueZhi/rayx-node-sql/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "homepage": "https://github.com/WangXueZhi/rayx-node-sql#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangXueZhi/rayx-node-sql.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
